@@ -13,3 +13,4 @@ ITEM | REQUISITO
 --------: | :------------
 Sensor de Gás MQ2| Quantidade(01)
 Buzzer 5V sem oscilador Interno| Quantidade(01) 
+Cabo Ethernet| Quantidade(01) 
