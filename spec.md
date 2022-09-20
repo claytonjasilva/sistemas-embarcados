@@ -11,8 +11,8 @@ Equipe: Sistema de Gases Tóxicos
 
 ITEM | REQUISITO
 --------: | :------------
-Sensor de Gás MQ2| Quantidade(01)
-Buzzer 5V sem oscilador Interno| Quantidade(01) 
+Sensor de Gás MQ2 | Quantidade(02)
+Buzzer 5V sem oscilador Interno | Quantidade(01) 
 
 ### 2.2 Iluminação
 
@@ -39,9 +39,10 @@ Tipo | dip-switch
 
 ITEM | REQUISITO
 --------: | :------------
-Cabo Ethernet| Quantidade(01) 
+Cabo Ethernet | Quantidade(01) 
 Jumper | x metros
 Tomada | xxx
+Módulo Ethernet | 01
 
 ### 2.4 Requisitos
 
