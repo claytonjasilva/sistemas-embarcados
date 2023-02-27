@@ -13,7 +13,7 @@ O grupo de Sistemas Embarcados foi criado no início do primeiro semestre de 202
 4. Desenvolver conhecimento sobre gestão de projetos de sistemas de TI - especialmente gestão ágil de projetos;
 5. Desenvolver conhecimento sobre o desenvolvimento de projetos multidisciplinares.
 
-As fases do trabalho realizado nesse perído foram as seguintes:
+As fases do trabalho realizado nesse período foram as seguintes:
 1. 2022.1 - Aprofundamento do conhecimento sobre programação de microcontroladores, com a utilização de sensores variados, entre os quais
   - LCD 1602, *display* de 16 caracteres em 2 linhas;
   - *Buzzer*, alarme piezoelétrico;
@@ -22,6 +22,13 @@ As fases do trabalho realizado nesse perído foram as seguintes:
   - ... 
 2. 2022.2 - Seleção do projeto de **Casa Inteligente** para nortear o prosseguimento das atividades:
   - Seleção dos subsistemas levantados no projeto conceitual: iluminação, segurança e integração;
-  - Seleção das funcionalidades dos subsistemas a serem tratados: alarme de gases tóxicos, acendimento de cenas de iluminação, 
+  - Seleção e desenvolvimento das funcionalidades dos subsistemas a serem tratados: alarme de gases tóxicos, acendimento de cenas de iluminação, 
 integração para plataformas *desktop* e móvel celular (SO Android);
   - Prototipação das soluções desenvolvidas em modelo reduzido de MDF.
+
+#### Objetivos para 2023.1
+- Conclusão das funcionalidades elencadas em 2022.2 e apresentação da **solução integrada**;
+- Inclusão e desenvolvimento de funcionalidades do subsistema de energia;
+- Ampliação das funcionalidades dos subsistemas de iluminação, segurança;
+- Atualização do sistema integrador e desenvolvimento da nova versão da solução 2022.2. 
+
