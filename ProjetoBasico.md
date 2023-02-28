@@ -201,6 +201,30 @@ determinadas, até 48h depois;
 | | Permitir a captura de um quadro da imagem de uma câmera |
 | | Permitir a regulagem da qualidade da imagem |
 
+### III.3 Iluminação
+| Em qualquer cômodo, incluindo áreas de passagem | Permitir a configuração e o salvamento de diferentes cenas de iluminação |
+| | Permitir a configuração de limites de luminosidade para a ativação automática de cenas |
+| | Permitir a configuração de horários para a ativação automática de cenas |
+| | Ativar uma cena automaticamente com a entrada de uma pessoa |
+| | Desativar a iluminação automaticamente com a saída de todas as pessoas do cômodo |
+| | Ativar e desativar cenas automaticamente conforme programado |
+| | Ter iluminação apenas de orientação onde for considerado necessário, que seja ativada e desativada automaticamente |
+| | Ter luz de emergência que seja ativada automaticamente quando faltar energia |
+| | Controlar o acionamento de persianas de acordo com a luminosidade |
+| | Permitir o controle remoto da seleção de cenas e da regulagem da intensidade |
+| | Permitir o controle local (no cômodo) da seleção de cenas e da regulagem da intensidade |
+| | Permitir abrir e fechar cortinas e persianas por comando remoto e automaticamente |
+| | Permitir o controle de dispositivos de iluminação legados |
+| Em áreas de passagem | Ativar iluminação de orientação apenas durante a passagem e em seguida desativar |
+| Em áreas externas | Permitir a configuração de diferentes cenas de iluminação |
+| | Permitir a configuração de limite de luminosidade para a ativação automática de cenas |
+| | Permitir a configuração de horários para a ativação automática de cenas |
+| | Ativar e desativar cenas automaticamente conforme configurado |
+| No controles central e nos controles móveis | Exibir a situação da iluminação da casa inteira |
+| | Permitir a ativação e desativação de cenas de iluminação da casa inteira |
+| | Permitir a desativação da iluminação da casa inteira com um só comando |
+| | Permitir a regulação da intensidade da iluminação |
+| | Permitir a configuração de cenas para qualquer cômodo ou área da casa |
 
 
 
