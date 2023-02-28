@@ -277,3 +277,36 @@ determinadas, até 48h depois;
 | Monitorar a temperatura da água |
 | Gerar relatórios |
 
+### 4.7. Multimídia
+| Descrição |
+| - |
+| Reproduzir música em qualquer ambiente a partir de qualquer dispositivo |
+
+### 4.8 Eletrodomésticos
+| Elemento do Subsistema | Descrição |
+| - | - |
+| Cafeteira e máquina de fazer pão | Saber os níveis dos estoques dos consumíveis |
+| | Selecionar e comandar remotamente o início da elaboração do produto |
+| | Programar horário para o início automático do preparo |
+| | Ser avisado de que o produto está pronto |
+| Lavadora | Ser possível comandar remotamente o início ou encerrar o funcionamento |
+| | Monitorar status do ciclo;
+| | Monitorar reservatórios de consumíveis.
+| Secadora | Ser possível programar o horário de início da operação |
+| | Saber se o ciclo de secamento já foi concluído.
+| Fogão |Monitorar situação das bocas e do forno para saber se estão ligados ou desligados |
+| | Monitorar a temperatura do forno;
+| | Ligar e desligar bocas e forno remotamente;
+| | Programar ligação e desligamento automáticos.
+| Forno isolado | Monitorar situação para saber se está ligado ou desligado e a temperatura se for o caso |
+| | Programar configuração de operação e horário para ligação e desligamento.
+| Geladeira | Verificar, por câmera, o conteúdo da geladeira |
+| | Monitorar abertura de porta;
+| | Monitorar temperatura interna;
+| | Monitorar a validade dos produtos e notificar a proximidade do vencimento da mesma |
+| | Notificar quando foi necessário trocar o filtro de água |
+| | Ser possível programar para fazer gelo |
+
+
+
+
