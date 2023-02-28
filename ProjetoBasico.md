@@ -265,5 +265,15 @@ determinadas, até 48h depois;
 | Saber o estado, ligar, desligar e ajustar a velocidade de ventiladores |
 | Gerar relatórios |
 
-
+### III.6 Hidráulica
+| Descrição |
+| - |
+|  Monitorar o consumo de água |
+| Detectar inundações |
+| Interromper, liberar e ajustar a vazão de fluxos de água manualmente  |
+| Verificar o estado, ativar, desativar e ajustar manualmente o fluxo de água da irrigação |
+| Programar horários para ativação e desativação automáticas da irrigação |
+| Programar a vazão dos fluxos de água de irrigação |
+| Monitorar a temperatura da água |
+| Gerar relatórios |
 
