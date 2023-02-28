@@ -307,6 +307,19 @@ determinadas, até 48h depois;
 | | Notificar quando foi necessário trocar o filtro de água |
 | | Ser possível programar para fazer gelo |
 
+### 4.9 Sistema integrador
+| Descrição |
+| - |
+| Ser utilizado em tablets e smartphones |
+| Ser seguro |
+| Pode| ser usado via Internet |
+| Ser |imples, fácil e intuitivo |
+| Facilitar o acesso a sistemas proprietários |
+| Facilitar o acesso a outras aplicações |
+| Permitir a visualização da situação atual da casa utilizando-se de plantas e mapas |
+| Permitir a execução de macros do tipo “sair pra jantar”, “viagem longa”, ..., que acionem configurações predeterminadas para os subsistemas de automação |
+
+
 
 
 
