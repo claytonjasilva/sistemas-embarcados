@@ -165,6 +165,16 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 | | Notificar caso o alarme seja acionado |
 | | Liberar, remotamente, o acesso de pessoas |
 | | Abrir o portão de acesso de veículos automaticamente, sem intervenção do motorista, ao identificar um veículo cadastrado |
+| Quanto a vazamento de gás e acúmulo de CO | Detectar e notificar um vazamento de gás |
+| | Detectar e notificar o acúmulo de CO |
+| Requisitos gerais | Acessar todas as funcionalidades de programação, operação e controle do sistema de segurança via smartphone |
+| | Permitir que o sistema seja acionado por um ou mais períodos pré-determinados de tempo, independentemente por subsistema |
+| | Ser o mais imune possível a falsos alarmes |
+| | Ser integrado ao sistema de monitoramento por câmeras de forma a possibilitar a visualização da região correspondente ao acionamento de um alarme |
+| | Abrir as portas e janelas automaticamente em caso de alarme de incêndio, de vazamento de gás, do acúmulo de CO, de gases inflamáveis e de fumaça |
+| | Dispor de alimentação de energia ininterrupta |
+| | Gerar relatórios de todas as ocorrências |
+
 
 
 
