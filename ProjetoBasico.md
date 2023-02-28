@@ -202,6 +202,8 @@ determinadas, até 48h depois;
 | | Permitir a regulagem da qualidade da imagem |
 
 ### III.3 Iluminação
+| Elemento do Subsistema | Descrição |
+| - | - |
 | Em qualquer cômodo, incluindo áreas de passagem | Permitir a configuração e o salvamento de diferentes cenas de iluminação |
 | | Permitir a configuração de limites de luminosidade para a ativação automática de cenas |
 | | Permitir a configuração de horários para a ativação automática de cenas |
@@ -226,7 +228,24 @@ determinadas, até 48h depois;
 | | Permitir a regulação da intensidade da iluminação |
 | | Permitir a configuração de cenas para qualquer cômodo ou área da casa |
 
-
+### III.4 Eletricidade
+| Elemento do Subsistema | Descrição |
+| - | - |
+| Na distribuição de energia | Possibilitar a ligação e o desligamento da energia elétrica fornecida por cada tomada da casa individualmente |
+| | Permitir a definição de períodos pré-programados para a ligação e desligamentos de tomadas |
+| | Possibilitar ligação e o desligamento da energia elétrica geral da casa |
+| | Possuir tomadas para carregamento de baterias de carros elétricos |
+| Na geração de energia | Possuir subsistemas de geração de energia alternativa como, por exemplo, painéis solares e turbinas eólicas |
+| | Implantar o sistema de compensação de energia elétrica |
+| | Emitir relatórios por período sobre a geração de energia elétrica |
+| | Ter circuitos elétricos selecionados atendidos por nobreaks |
+| | Possuir gerador para suprir a energia elétrica da casa, com ligação automática em caso de ausência de fornecimento das demais fontes |
+| | Ter meios de armazenar a energia gerada em excesso |
+| No consumo de energia | Permitir a verificação do consumo de energia em todos os pontos que tiverem medidores de energia instalados |
+| | Baseado no consumo de energia na residência, deve permitir que o usuário visualize os créditos disponíveis |
+| | Permitir a visualização de um histórico de consumo de energia da residência |
+| | Permitir a comparação os dados obtidos pelos medidores de energia e os dados da distribuidora de energia |
+| | Emitir relatórios por período sobre o consumo de energia |
 
 
 
