@@ -175,6 +175,33 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 | | Dispor de alimentação de energia ininterrupta |
 | | Gerar relatórios de todas as ocorrências |
 
+### III.2 Monitoramento
+
+| Elemento do Subsistema | Descrição |
+| - | - |
+| Nas áreas externas | Permitir a programação de percursos de monitoração para câmeras selecionadas |
+| | Permitir a identificação de placa de carro |
+| | Operar em condições climáticas adversas |
+| | Ter proteção antivandalismo |
+| No sistema de armazenamento | Permitir a recuperação das imagens de uma câmera a partir de uma data e hora |
+determinadas, até 48h depois;
+| | Permitir a captura e exportação de um quadro da imagem recuperada de uma câmera |
+| | Permitir a exportação de sequência de vídeos de uma câmera |
+| | Gerar relatórios |
+| Requisitos gerais | Monitorar as entradas externas e internas |
+| | Monitorar as áreas externas e internas selecionadas pelos moradores |
+| | Detectar e notificar quando alguém se aproximar das entradas externas e internas |
+| | Notificar quando uma câmera deixar de gravar| 
+| | Permitir a programação de horários para funcionamento de câmeras selecionadas |
+| | Permitir, em câmeras selecionadas, a emissão e/ou captura de som |
+| | Permitir a gravação dos vídeos em um sistema de armazenamento local |
+| | Permitir múltiplos acessos ao sinal de vídeo de uma mesma câmera |
+| | Exibir um mosaico com os imagens das câmeras externas e internas separadamente |
+| | Permitir a seleção, no mosaico, da imagem de uma câmera e aumentá-la |
+| | Permitir a captura de um quadro da imagem de uma câmera |
+| | Permitir a regulagem da qualidade da imagem |
+
+
 
 
 
