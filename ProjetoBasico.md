@@ -247,5 +247,23 @@ determinadas, até 48h depois;
 | | Permitir a comparação os dados obtidos pelos medidores de energia e os dados da distribuidora de energia |
 | | Emitir relatórios por período sobre o consumo de energia |
 
+### III.5 Climatização
+| Descrição |
+| - |
+| Saber, a qualquer momento, as temperaturas externa e interna de qualquer cômodo |
+| Saber, qualquer momento, o estado dos aparelhos de ar-condicionado de qualquer cômodo, incluindo a intensidade da ventilação |
+| Permitir a ligação e o desligamento da climatização de qualquer cômodo e o ajuste da intensidade da ventilação |
+| Saber a umidade relativa do ar externa e em qualquer cômodo |
+| Ser notificado se a umidade atingir limite recomendado pela OMS (20%) |
+| Permitir a ligação e o desligamento da umidificação de qualquer cômodo e o ajuste da intensidade da umidade |
+| Programar a temperatura na qual qualquer cômodo deve permanecer |
+| Programar horários para a climatização e a umidificação automáticas entrarem em operação |
+| Gravar configurações de climatização e umidificação por horários e dias da semana |
+| Ativar, desativar e configurar a climatização de qualquer cômodo manualmente |
+| Ter um comando para desligar toda a climatização ao mesmo tempo |
+| Abrir e fechar, automaticamente, as janelas, basculantes, clarabóias que forem relacionadas à climatização e umidificação |
+| Saber o estado, ligar, desligar e ajustar a velocidade de ventiladores |
+| Gerar relatórios |
+
 
 
