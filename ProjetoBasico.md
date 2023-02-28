@@ -32,6 +32,11 @@ integração para plataformas *desktop* e móvel celular (SO Android);
 - Ampliação das funcionalidades dos subsistemas de iluminação, segurança;
 - Atualização do sistema integrador e desenvolvimento da nova versão da solução 2022.2. 
 
+#### Delimitação do escopo
+- Todas as questões de rede e demais componentes de infraestrutura de TIC estão **fora do escopo** do trabalho;
+- O desenvolvimento do trabalho estará restrito aos aspectos relacionados com sistemas embarcados;
+- As soluções parciais serão validadas em ambientes de desenvolvimento como Arduíno e Raspberry Pi.
+
 ## I. Considerações gerais
 Segundo a Associação Brasileira de Automação Residencial e Predial (AURESIDE), o termo automação residencial está consagrado no Brasil. Seu sentido é estendido quando aplicado à automação residencial:  
 
@@ -277,12 +282,12 @@ determinadas, até 48h depois;
 | Monitorar a temperatura da água |
 | Gerar relatórios |
 
-### 4.7. Multimídia
+### III.7. Multimídia
 | Descrição |
 | - |
 | Reproduzir música em qualquer ambiente a partir de qualquer dispositivo |
 
-### 4.8 Eletrodomésticos
+### III.8 Eletrodomésticos
 | Elemento do Subsistema | Descrição |
 | - | - |
 | Cafeteira e máquina de fazer pão | Saber os níveis dos estoques dos consumíveis |
@@ -307,7 +312,7 @@ determinadas, até 48h depois;
 | | Notificar quando foi necessário trocar o filtro de água |
 | | Ser possível programar para fazer gelo |
 
-### 4.9 Sistema integrador
+### III.9 Sistema integrador
 | Descrição |
 | - |
 | Ser utilizado em tablets e smartphones |
@@ -319,7 +324,18 @@ determinadas, até 48h depois;
 | Permitir a visualização da situação atual da casa utilizando-se de plantas e mapas |
 | Permitir a execução de macros do tipo “sair pra jantar”, “viagem longa”, ..., que acionem configurações predeterminadas para os subsistemas de automação |
 
+## IV - Requisitos não funcionais
+Alguns autores recomendam que o projeto de sistemas de engenharia sejam desenvolvidos em ciclos incrementais que contemplem:
+- Análise de necessidades;
+- Modelagem funcional;
+- Modelagem física;
+- Testes e avaliações.  
 
+Por se tratar de um projeto acadêmico o escopo de cada semestre será definido semestre a semestre, conforme sejam as funcionalidades a implementar
+de cada subsistema - orientado pelo projeto básico ou conceitual. 
+
+Em consequência, **o modelo físico, consequentemente os requisitos não funcionais, assim como os testes, serão realizados durante as *sprints* - delimitadas em cerca de 12 semanas**
+(maior do aquele normalmente aplicado no modelo de gestão do *Scrum*)
 
 
 
