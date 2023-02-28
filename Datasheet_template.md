@@ -16,8 +16,17 @@
 | ... | ... | 
 
 ## 2. Referência com Arduíno
-### 1. Função <<nome da função>> <<link de referência>>
+### 2.1. Função <<nome da função>> <<link de referência>>
 - Descrição resumida da aplicação da função com foco na aplicação em pauta
 - Por exemplo, valor de retorno - se houver
 - Parâmetros, ...
 
+### 2.2. Função <<nome da função>> <<link de referência>>
+- Descrição resumida da aplicação da função com foco na aplicação em pauta
+- Por exemplo, valor de retorno - se houver
+- Parâmetros, ...
+
+...
+
+## 3. Esquemas de ligação
+- **Detalhar** os esquemas de ligação realizados no protótipo.
