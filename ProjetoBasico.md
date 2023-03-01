@@ -1,10 +1,27 @@
 # PROJETO BÁSICO - SISTEMA DE AUTOMAÇÃO RESIDENCIAL
 *Fevereiro 2023*  
+<a id="ancora"></a>
 
 Este documento formaliza o **projeto conceitual** do Sistema de Automação Residencial que norteia **o desenvolvimento das soluções 
 de engenharia e de sistemas de software** do projeto de automação residencial conduzido no contexto de **atividade extra classe** cujo tema é **Sistemas Embarcados**,
 conduzida pelo Prof Clayton J A Silva no Centro Universitário Ibmec RJ.
+#### Sumário
+Introdução. [Breve histórico](#ancorahistorico)  
+Introdução. [Operadores](#ancoraobjetivos)  
+Introdução. [Instruções simples e compostas](#ancoraescopo)  
+I. [Considerações gerais](#ancoraconsideracoes)  
+II. [Condicionantes](#ancoracondicionantes)   
+III. Funcionalidades [Segurança](#ancoraseguranca)  
+III. Funcionalidades [Monitoramento](#ancoramonitoramento)  
+III. Funcionalidades [Iluminação](#ancorailuminacao)   
+III. Funcionalidades [Eletricidade](#ancoraeletricidade)  
+III. Funcionalidades [Hidráulica](#ancorahidraulica)  
+III. Funcionalidades [Multimídia](#ancoramultimidia)  
+III. Funcionalidades [Hidráulica](#ancoraeletrodomesticos)  
+III. Funcionalidades [Sistema integrador](#ancoraintegrador)   
+IV. [Requsitos não funcionais](#ancoranaofuncionais)
 
+<a id="ancorahistorico"></a>
 #### Breve histórico
 O grupo de Sistemas Embarcados foi criado no início do primeiro semestre de 2022 com os seguintes objetivos gerais:  
 1. Sedimentar conceitos teóricos discutidos em sala nas disciplinas de conteúdo correlato;
@@ -26,17 +43,20 @@ As fases do trabalho realizado nesse período foram as seguintes:
 integração para plataformas *desktop* e móvel celular (SO Android);
   - Prototipação das soluções desenvolvidas em modelo reduzido de MDF.
 
+<a id="ancoraobjetivos"></a>
 #### Objetivos para 2023.1
 - Conclusão das funcionalidades elencadas em 2022.2 e apresentação da **solução integrada**;
 - Inclusão e desenvolvimento de funcionalidades do subsistema de energia;
 - Ampliação das funcionalidades dos subsistemas de iluminação, segurança;
 - Atualização do sistema integrador e desenvolvimento da nova versão da solução 2022.2. 
 
+<a id="ancoraescopo"></a>
 #### Delimitação do escopo
 - Todas as questões de rede e demais componentes de infraestrutura de TIC estão **fora do escopo** do trabalho;
 - O desenvolvimento do trabalho estará restrito aos aspectos relacionados com sistemas embarcados;
 - As soluções parciais serão validadas em ambientes de desenvolvimento como Arduíno e Raspberry Pi.
 
+<a id="ancoraconsideracoes"></a>
 ## I. Considerações gerais
 Segundo a Associação Brasileira de Automação Residencial e Predial (AURESIDE), o termo automação residencial está consagrado no Brasil. Seu sentido é estendido quando aplicado à automação residencial:  
 
@@ -74,8 +94,10 @@ sistemas que proporcionem alguma utilidade para o usuário da casa.
 armazenamento de arquivos, as redes de comunicação de dados e as conexões à 
 Internet.  
 11. **Sistema integrador**: inclui os paineis de controle, os controles remotos e o software 
-de integração ou aplicação integradora para o controle da automação residencial.
+de integração ou aplicação integradora para o controle da automação residencial.  
+[Topo](#ancora)
 
+<a id="ancoracondicionantes"></a>
 ## II. Condicionantes
 As condicionanetes são os aspectos que orientaram a elaboração dos requisitos funcionais do projeto conceitual da Casa Inteligente.
 1. Segurança
@@ -132,11 +154,13 @@ As condicionanetes são os aspectos que orientaram a elaboração dos requisitos
   - Ser possível realizar o controle por dispositivos móveis e fixos;
   - Permitir a integração com Internet e nuvem;
   - Ter painel de controle integrado a espelho e a TV; e
-  - usar de interfaces de programação de aplicações (API), preferencialmente abertas e, portanto, disponíveis gratuitamente.
+  - usar de interfaces de programação de aplicações (API), preferencialmente abertas e, portanto, disponíveis gratuitamente.   
+[Topo](#ancora)
 
 ## III. Funcionalidades
 Os principais requisitos funcionais do sistema estão listados a seguir
 
+<a id="ancoraseguranca"></a>
 ### III.1 Segurança
 
 | Elemento do Subsistema | Descrição |
@@ -179,7 +203,9 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 | | Abrir as portas e janelas automaticamente em caso de alarme de incêndio, de vazamento de gás, do acúmulo de CO, de gases inflamáveis e de fumaça |
 | | Dispor de alimentação de energia ininterrupta |
 | | Gerar relatórios de todas as ocorrências |
+[Topo](#ancora)
 
+<a id="ancoramonitoramento"></a>
 ### III.2 Monitoramento
 
 | Elemento do Subsistema | Descrição |
@@ -205,7 +231,9 @@ determinadas, até 48h depois;
 | | Permitir a seleção, no mosaico, da imagem de uma câmera e aumentá-la |
 | | Permitir a captura de um quadro da imagem de uma câmera |
 | | Permitir a regulagem da qualidade da imagem |
+[Topo](#ancora)
 
+<a id="ancorailuminacao"></a>
 ### III.3 Iluminação
 | Elemento do Subsistema | Descrição |
 | - | - |
@@ -232,7 +260,9 @@ determinadas, até 48h depois;
 | | Permitir a desativação da iluminação da casa inteira com um só comando |
 | | Permitir a regulação da intensidade da iluminação |
 | | Permitir a configuração de cenas para qualquer cômodo ou área da casa |
+[Topo](#ancora)
 
+<a id="ancoraeletricidade"></a>
 ### III.4 Eletricidade
 | Elemento do Subsistema | Descrição |
 | - | - |
@@ -251,7 +281,9 @@ determinadas, até 48h depois;
 | | Permitir a visualização de um histórico de consumo de energia da residência |
 | | Permitir a comparação os dados obtidos pelos medidores de energia e os dados da distribuidora de energia |
 | | Emitir relatórios por período sobre o consumo de energia |
+[Topo](#ancora)
 
+<a id="ancoraclimatizacao"></a>
 ### III.5 Climatização
 | Descrição |
 | - |
@@ -269,7 +301,9 @@ determinadas, até 48h depois;
 | Abrir e fechar, automaticamente, as janelas, basculantes, clarabóias que forem relacionadas à climatização e umidificação |
 | Saber o estado, ligar, desligar e ajustar a velocidade de ventiladores |
 | Gerar relatórios |
+[Topo](#ancora)
 
+<a id="ancorahidraulica"></a>
 ### III.6 Hidráulica
 | Descrição |
 | - |
@@ -281,12 +315,16 @@ determinadas, até 48h depois;
 | Programar a vazão dos fluxos de água de irrigação |
 | Monitorar a temperatura da água |
 | Gerar relatórios |
+[Topo](#ancora)
 
+<a id="ancoramultimidia"></a>
 ### III.7. Multimídia
 | Descrição |
 | - |
 | Reproduzir música em qualquer ambiente a partir de qualquer dispositivo |
+[Topo](#ancora)
 
+<a id="ancoraeletrodomesticos"></a>
 ### III.8 Eletrodomésticos
 | Elemento do Subsistema | Descrição |
 | - | - |
@@ -311,7 +349,9 @@ determinadas, até 48h depois;
 | | Monitorar a validade dos produtos e notificar a proximidade do vencimento da mesma |
 | | Notificar quando foi necessário trocar o filtro de água |
 | | Ser possível programar para fazer gelo |
+[Topo](#ancora)
 
+<a id="ancoraintegrador"></a>
 ### III.9 Sistema integrador
 | Descrição |
 | - |
@@ -323,13 +363,16 @@ determinadas, até 48h depois;
 | Facilitar o acesso a outras aplicações |
 | Permitir a visualização da situação atual da casa utilizando-se de plantas e mapas |
 | Permitir a execução de macros do tipo “sair pra jantar”, “viagem longa”, ..., que acionem configurações predeterminadas para os subsistemas de automação |
+[Topo](#ancora)
 
+<a id="ancoranaofuncionais"></a>
 ## IV - Requisitos não funcionais
 Alguns autores recomendam que o projeto de sistemas de engenharia sejam desenvolvidos em ciclos incrementais que contemplem:
 - Análise de necessidades;
 - Modelagem funcional;
 - Modelagem física;
 - Testes e avaliações.  
+[Topo](#ancora)
 
 Por se tratar de um projeto acadêmico o escopo de cada semestre será definido semestre a semestre, conforme sejam as funcionalidades a implementar
 de cada subsistema - orientado pelo projeto básico ou conceitual. 
