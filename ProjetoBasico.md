@@ -21,6 +21,7 @@ III. Funcionalidades [Hidráulica](#ancoraeletrodomesticos)
 III. Funcionalidades [Sistema integrador](#ancoraintegrador)   
 IV. [Requsitos não funcionais](#ancoranaofuncionais)
 
+___
 <a id="ancorahistorico"></a>
 #### Breve histórico
 O grupo de Sistemas Embarcados foi criado no início do primeiro semestre de 2022 com os seguintes objetivos gerais:  
@@ -55,6 +56,8 @@ integração para plataformas *desktop* e móvel celular (SO Android);
 - Todas as questões de rede e demais componentes de infraestrutura de TIC estão **fora do escopo** do trabalho;
 - O desenvolvimento do trabalho estará restrito aos aspectos relacionados com sistemas embarcados;
 - As soluções parciais serão validadas em ambientes de desenvolvimento como Arduíno e Raspberry Pi.
+___
+[Topo](#ancora)
 
 <a id="ancoraconsideracoes"></a>
 ## I. Considerações gerais
@@ -95,6 +98,7 @@ armazenamento de arquivos, as redes de comunicação de dados e as conexões à
 Internet.  
 11. **Sistema integrador**: inclui os paineis de controle, os controles remotos e o software 
 de integração ou aplicação integradora para o controle da automação residencial.  
+___  
 [Topo](#ancora)
 
 <a id="ancoracondicionantes"></a>
@@ -155,6 +159,7 @@ As condicionanetes são os aspectos que orientaram a elaboração dos requisitos
   - Permitir a integração com Internet e nuvem;
   - Ter painel de controle integrado a espelho e a TV; e
   - usar de interfaces de programação de aplicações (API), preferencialmente abertas e, portanto, disponíveis gratuitamente.   
+___
 [Topo](#ancora)
 
 ## III. Funcionalidades
@@ -203,6 +208,7 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 | | Abrir as portas e janelas automaticamente em caso de alarme de incêndio, de vazamento de gás, do acúmulo de CO, de gases inflamáveis e de fumaça |
 | | Dispor de alimentação de energia ininterrupta |
 | | Gerar relatórios de todas as ocorrências |
+___
 [Topo](#ancora)
 
 <a id="ancoramonitoramento"></a>
@@ -231,6 +237,7 @@ determinadas, até 48h depois;
 | | Permitir a seleção, no mosaico, da imagem de uma câmera e aumentá-la |
 | | Permitir a captura de um quadro da imagem de uma câmera |
 | | Permitir a regulagem da qualidade da imagem |
+___
 [Topo](#ancora)
 
 <a id="ancorailuminacao"></a>
@@ -260,6 +267,7 @@ determinadas, até 48h depois;
 | | Permitir a desativação da iluminação da casa inteira com um só comando |
 | | Permitir a regulação da intensidade da iluminação |
 | | Permitir a configuração de cenas para qualquer cômodo ou área da casa |
+___
 [Topo](#ancora)
 
 <a id="ancoraeletricidade"></a>
@@ -281,6 +289,7 @@ determinadas, até 48h depois;
 | | Permitir a visualização de um histórico de consumo de energia da residência |
 | | Permitir a comparação os dados obtidos pelos medidores de energia e os dados da distribuidora de energia |
 | | Emitir relatórios por período sobre o consumo de energia |
+___
 [Topo](#ancora)
 
 <a id="ancoraclimatizacao"></a>
@@ -301,6 +310,7 @@ determinadas, até 48h depois;
 | Abrir e fechar, automaticamente, as janelas, basculantes, clarabóias que forem relacionadas à climatização e umidificação |
 | Saber o estado, ligar, desligar e ajustar a velocidade de ventiladores |
 | Gerar relatórios |
+___
 [Topo](#ancora)
 
 <a id="ancorahidraulica"></a>
@@ -315,6 +325,7 @@ determinadas, até 48h depois;
 | Programar a vazão dos fluxos de água de irrigação |
 | Monitorar a temperatura da água |
 | Gerar relatórios |
+___
 [Topo](#ancora)
 
 <a id="ancoramultimidia"></a>
@@ -322,6 +333,7 @@ determinadas, até 48h depois;
 | Descrição |
 | - |
 | Reproduzir música em qualquer ambiente a partir de qualquer dispositivo |
+___
 [Topo](#ancora)
 
 <a id="ancoraeletrodomesticos"></a>
@@ -349,6 +361,7 @@ determinadas, até 48h depois;
 | | Monitorar a validade dos produtos e notificar a proximidade do vencimento da mesma |
 | | Notificar quando foi necessário trocar o filtro de água |
 | | Ser possível programar para fazer gelo |
+___
 [Topo](#ancora)
 
 <a id="ancoraintegrador"></a>
@@ -363,6 +376,7 @@ determinadas, até 48h depois;
 | Facilitar o acesso a outras aplicações |
 | Permitir a visualização da situação atual da casa utilizando-se de plantas e mapas |
 | Permitir a execução de macros do tipo “sair pra jantar”, “viagem longa”, ..., que acionem configurações predeterminadas para os subsistemas de automação |
+___
 [Topo](#ancora)
 
 <a id="ancoranaofuncionais"></a>
@@ -372,13 +386,15 @@ Alguns autores recomendam que o projeto de sistemas de engenharia sejam desenvol
 - Modelagem funcional;
 - Modelagem física;
 - Testes e avaliações.  
-[Topo](#ancora)
 
 Por se tratar de um projeto acadêmico o escopo de cada semestre será definido semestre a semestre, conforme sejam as funcionalidades a implementar
 de cada subsistema - orientado pelo projeto básico ou conceitual. 
 
 Em consequência, **o modelo físico, consequentemente os requisitos não funcionais, assim como os testes, serão realizados durante as *sprints* - delimitadas em cerca de 12 semanas**
 (maior do aquele normalmente aplicado no modelo de gestão do *Scrum*)
+
+___
+[Topo](#ancora)
 
 
 
