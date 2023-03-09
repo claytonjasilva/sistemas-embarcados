@@ -170,7 +170,7 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 
 | Elemento do Subsistema | Descrição |
 | - | - |
-| Perímetro do terro da casa | Possibilitar o controle remoto de portas e portões |
+| Perímetro do terro da casa | Possibilitar o controle remoto de portas e portões (Victor) |
 | | Ser possível programar para que sejam detectadas quaisquer tentativas de transposição dos muros externos que cercam o terreno |
 | | Identificar em qual segmento do perímetro se houve intrusão |
 | | Ser possível programar para que sejam acionados alarmes sonoros (sirenes ou gravações) e holofotes que iluminem a área onde houve a intrusão |
@@ -185,11 +185,11 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 | | Identificar em qual cômodo e, se for o caso em qual zona do mesmo, houve a intrusão |
 | | Ser possível programar para que sejam acionados alarmes sonoros (sirenes ou gravações) e o acendimento das luzes no cômodo onde houve a intrusão |
 | | Ter botões de pânico nos cômodos da casa para acionamento de uma empresa de segurança contratada |
-| Na prevenção de incêndios | Detectar um princípio de incêndio, a presença de monóxido de carbono (CO), gases inflamáveis e de fumaça |
+| Na prevenção de incêndios | Detectar um princípio de incêndio, a presença de monóxido de carbono (CO), gases inflamáveis e de fumaça (Bernardo) |
 | | Identificar em qual cômodo e se for o caso em qual zona do mesmo, houve o sinistro |
 | | Para cômodos muito grandes, deverá possibilitar a divisão por zonas de proteção |
 | | Ser possível programar para que sejam acionados alarmes sonoros (sirenes ou gravações) e o acendimento das luzes onde houve a detecção da anormalidade |
-| | Ter sprinklers de acionamento automático |
+| | Ter sprinklers de acionamento automático (Bernardo) |
 | No controle de acesso | Possibilitar a validação biométrica ou por senha para abertura automática das portas e portões de entrada de pedestres |
 | | Permitir a integração com o sistema de monitoramento por câmeras para visualização e identificação de pessoas que solicitam a entrada em seus portões |
 | | Gerar relatório de entrada e saída da propriedade |
@@ -216,7 +216,7 @@ ___
 
 | Elemento do Subsistema | Descrição |
 | - | - |
-| Nas áreas externas | Permitir a programação de percursos de monitoração para câmeras selecionadas |
+| Nas áreas externas | Permitir a programação de percursos de monitoração para câmeras selecionadas (Alex) |
 | | Permitir a identificação de placa de carro |
 | | Operar em condições climáticas adversas |
 | | Ter proteção antivandalismo |
@@ -278,7 +278,7 @@ ___
 | | Permitir a definição de períodos pré-programados para a ligação e desligamentos de tomadas |
 | | Possibilitar ligação e o desligamento da energia elétrica geral da casa |
 | | Possuir tomadas para carregamento de baterias de carros elétricos |
-| Na geração de energia | Possuir subsistemas de geração de energia alternativa como, por exemplo, painéis solares e turbinas eólicas |
+| Na geração de energia | Possuir subsistemas de geração de energia alternativa como, por exemplo, painéis solares e turbinas eólicas (Gustavo) |
 | | Implantar o sistema de compensação de energia elétrica |
 | | Emitir relatórios por período sobre a geração de energia elétrica |
 | | Ter circuitos elétricos selecionados atendidos por nobreaks |
@@ -365,7 +365,7 @@ ___
 [Topo](#ancora)
 
 <a id="ancoraintegrador"></a>
-### III.9 Sistema integrador
+### III.9 Sistema integrador (FElipe/Bernardo)
 | Descrição |
 | - |
 | Ser utilizado em tablets e smartphones |
