@@ -170,7 +170,7 @@ Os principais requisitos funcionais do sistema estão listados a seguir
 
 | Elemento do Subsistema | Descrição |
 | - | - |
-| Perímetro do terro da casa | Possibilitar o controle remoto de portas e portões (Victor) |
+| Perímetro do terro da casa | **Possibilitar o controle remoto de portas e portões (Victor, Gabriel)** |
 | | Ser possível programar para que sejam detectadas quaisquer tentativas de transposição dos muros externos que cercam o terreno |
 | | Identificar em qual segmento do perímetro se houve intrusão |
 | | Ser possível programar para que sejam acionados alarmes sonoros (sirenes ou gravações) e holofotes que iluminem a área onde houve a intrusão |
@@ -216,7 +216,7 @@ ___
 
 | Elemento do Subsistema | Descrição |
 | - | - |
-| Nas áreas externas | Permitir a programação de percursos de monitoração para câmeras selecionadas (Alex) |
+| Nas áreas externas | **Permitir a programação de percursos de monitoração para câmeras selecionadas (Alex)** |
 | | Permitir a identificação de placa de carro |
 | | Operar em condições climáticas adversas |
 | | Ter proteção antivandalismo |
@@ -265,7 +265,7 @@ ___
 | No controles central e nos controles móveis | Exibir a situação da iluminação da casa inteira |
 | | Permitir a ativação e desativação de cenas de iluminação da casa inteira |
 | | Permitir a desativação da iluminação da casa inteira com um só comando |
-| | Permitir a regulação da intensidade da iluminação |
+| | **Permitir a regulação da intensidade da iluminação (J Pedro, Philipe, Gustavo Braga)**|
 | | Permitir a configuração de cenas para qualquer cômodo ou área da casa |
 ___
 [Topo](#ancora)
@@ -278,7 +278,7 @@ ___
 | | Permitir a definição de períodos pré-programados para a ligação e desligamentos de tomadas |
 | | Possibilitar ligação e o desligamento da energia elétrica geral da casa |
 | | Possuir tomadas para carregamento de baterias de carros elétricos |
-| Na geração de energia | Possuir subsistemas de geração de energia alternativa como, por exemplo, painéis solares e turbinas eólicas (Gustavo) |
+| Na geração de energia | **Possuir subsistemas de geração de energia alternativa como, por exemplo, painéis solares e turbinas eólicas (Gustavo)** |
 | | Implantar o sistema de compensação de energia elétrica |
 | | Emitir relatórios por período sobre a geração de energia elétrica |
 | | Ter circuitos elétricos selecionados atendidos por nobreaks |
@@ -365,7 +365,7 @@ ___
 [Topo](#ancora)
 
 <a id="ancoraintegrador"></a>
-### III.9 Sistema integrador (FElipe/Bernardo)
+### III.9 Sistema integrador (Felipe/Bernardo)
 | Descrição |
 | - |
 | Ser utilizado em tablets e smartphones |
